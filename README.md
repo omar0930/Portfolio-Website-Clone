@@ -34,3 +34,4 @@ This is a modern, multi-section **personal portfolio website** built using HTML5
 - Organizing large stylesheets and applying consistent theming
 - Font and icon integration using external libraries
 
+🧑‍💻 *This is one of several projects I’m creating at Route Academy as I work toward becoming a full stack developer using Angular and .NET. Stay tuned for more!*
